@@ -6,7 +6,6 @@ import Projects from './modules/Projects/Projects';
 import Certificates from './modules/Certificates/Certificates';
 import Contact from './modules/Contact/Contact';
 import BackToTop from './modules/BacktoTop/BacktoTop';
-import '@fortawesome/fontawesome-free/css/all.min.css';
 import { useRef, useEffect, useState } from 'react';
 
 function App() {
